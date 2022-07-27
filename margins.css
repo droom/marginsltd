@@ -34,13 +34,9 @@ body {
 }
 .grid .col:nth-child(3) {
   align-self: bottom;
+  /*border-top: 1px solid black;*/
   grid-column-start: 2;
   grid-column-end: 3;
-}
-
-
-.mark {
-  height: 100%;
 }
 
 /* Type */
@@ -74,4 +70,13 @@ li + li {
 
 .bold {
   font-weight: 600;
+}
+
+
+/* Mark */
+
+.mark {
+  height: 100%;
+  width: 100%;
+
 }
