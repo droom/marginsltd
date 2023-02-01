@@ -1,0 +1,33 @@
+body{
+	padding: 8px 12px;
+	margin: 8px 12px;
+}
+
+h1, h2, h3, p{
+	font-size: 16px;
+	font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+td{
+	font-size: 16px;
+	font-family: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro", "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
+}
+
+td img{
+	width: 12px;
+}
+
+td:nth-child(1){
+	padding-right: 20px;
+}
+td:nth-child(2){
+	padding-right: 4px;
+}
+
+h1 + h3{
+	margin-top: 40px;
+}
+
+p.twitter{
+	margin-top: 40px; 
+}

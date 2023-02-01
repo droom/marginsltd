@@ -1,0 +1,81 @@
+@charset "UTF-8";
+/* CSS Document */
+body{background-color:#ffffff;margin-left:0px;padding:0;}
+
+p{font-family:Arial, Helvetica, sans-serif;color:#333333;font-size:11px;line-height:16px;}
+
+td{font-family:Arial, Helvetica, sans-serif;color:#333333;font-size:11px;line-height:16px;}
+
+h1{font-size:24px;letter-spacing:-0.7px;font-weight:400;margin:0px;padding:0px; font-family:Arial, Helvetica, sans-serif; color:#333333;}
+
+h2{font-family:Georgia, "Times New Roman", Times, serif;font-size:42px;color:#333333;letter-spacing:-1px;font-weight:400;margin:0px;padding:0px;}
+h3{font-family:Arial, Helvetica, sans-serif;font-size:19px;color:#333333;letter-spacing:-1px;font-weight:400;margin:0;padding:20px 0 10px 0;}
+
+
+.editorial{
+border:1px solid #666666;
+}
+
+.small{
+font-family:Arial, Helvetica, sans-serif;color:#666666;font-size:10px;}
+
+ul{font-family:Arial, Helvetica, sans-serif;color:#333333;font-size:11px;}
+
+
+
+#wrap{width:800px;margin:auto;margin-top:0px;
+background-color:#fff;
+min-height:820px;
+}
+
+#last{float:right;width:200px;}
+
+
+
+#content_left{
+background-color:#fff;
+width:260px;
+float:left;
+padding-top:40px;
+}
+
+#content{
+background-color:#fff;
+width:800px;
+float:left;
+padding-top:40px;
+padding-bottom:60px;
+}
+
+#content_right{
+text-align:right;
+background-color:#fff;
+width:500px;
+float:right;
+padding-top:40px;
+}
+
+#content_right img{border:0px; padding:1px 1px 1px 1px; margin:0px; text-align:right;}
+#content_right a{border:0; padding:0; margin:0;}
+
+#grill{
+padding:0 0 10px 0;
+}
+
+hr{
+border:none;
+height:2px;
+background-color:#333333;}
+
+a{text-decoration:none;
+color:#000000}
+
+a:hover{background-color:#00CCFF;
+text-decoration:none;
+color:#FFFFFF;}
+
+#runnerTop{width:880px; margin:auto; padding:0 0 22px 0}
+#runnerInfo{width:800px; margin:auto; clear:both;}
+#runnerBtm{width:880px; margin:auto; clear:both;}
+
+

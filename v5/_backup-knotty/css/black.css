@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* www.chrisdroom.com */
+body{background-color:#ffffff;margin-left:0px;padding:0px;}
+
+h1, h2, h3, p, td{
+font-family:Arial, Helvetica, sans-serif;
+color:#333333;
+}
+
+h1{font-size:22px;letter-spacing:-0.6px;font-weight:400;margin:0px;padding:0px;}
+/* h2{font-size:42px;letter-spacing:-2px;font-weight:400;margin:0px;padding:0px;} */
+h2{font-size:42px;letter-spacing:-1px;font-weight:400;margin:0px;padding:0px;
+font-family:Georgia, "Times New Roman", Times, serif; color:#666666;}
+h3{font-size:19px;letter-spacing:-1px;font-weight:400;margin:0;}
+p{font-size:11px;line-height:16px;}
+td{font-size:11px;line-height:16px;}
+
+.editorial{border:1px solid #666666;}
+.small{font-size:10px;line-height:12px; color:#999999;}
+.vimeo{padding:0 0 4px 0;}
+
+#supplementary{padding-top:40px;}
+#supplementary a:hover{background-color:#fff;}
+#supplementary img{padding:0px 3px 0px 0px;border:0px;}
+
+#wrap{width:800px;margin:auto;margin-top:0px;background-color:#fff;min-height:900px;}
+#last{float:right;width:200px;}
+
+#content{width:800px;float:left;padding-top:40px;padding-bottom:60px;}
+#content_left{width:260px;float:left;padding-top:40px;}
+#content_right{text-align:right;width:500px;float:right;padding-top:40px;padding-bottom:40px;}
+#content_print{text-align:right;width:500px;float:right;padding-top:40px;padding-bottom:40px;}
+
+
+#content_print img{border:0px; margin-left:auto; margin-right:0px; float:right; padding:2px}
+#content_right a{border:0; padding:0; margin:0;}
+
+#grill{padding:0 0 10px 0;}
+
+hr{border:none;height:2px;background-color:#333;}
+
+a{text-decoration:none;color:#000}
+a:hover{background-color:#00CCFF;text-decoration:none;color:#fff;}
+
+#runnerTop{width:880px; margin:auto; padding:0 0 15px 0}
+#runnerInfo{width:800px; margin:auto; clear:both;}
+#runnerBtm{width:880px; margin:auto; clear:both; padding:10px 0 0 0}
